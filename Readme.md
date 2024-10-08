@@ -25,11 +25,11 @@ Ready to use with a basic project structure and configuration
 To get started with this project, follow the steps below:
 
 ## Installation Guide
--[x] Clone the repository:
+*Clone the repository:*
 ``` bash 
 git clone https://github.com/zhshakib/vue3_expressJS.git
 ```
--[x] Install dependencies:
+*Install dependencies:*
 ``` bash 
 cd backend 
 npm install
@@ -38,7 +38,7 @@ cd frontend
 npm install
 cd ..
 ```
--[x] Start the development server:
+*Start the development server:*
 ``` bash 
 npm install 
 npm run dev
@@ -68,5 +68,5 @@ The project structure is organized as follows:
 # Contribution Guidelines
 Before submitting an issue, please search the existing issues to ensure it hasn't already been reported. When submitting an issue, please provide as much detail as possible, including steps to reproduce the issue.
 
-# Pull Requests
+## Pull Requests
 Before submitting a pull request, please ensure that your code is formatted according to the project's coding standards. When submitting a pull request, please provide a clear description of the changes made and why they were necessary.
