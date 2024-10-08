@@ -10,6 +10,7 @@ axios.get('/').then((response) => {
   console.log(error);
 })
 
+
 </script>
 
 <template>
